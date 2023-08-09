@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.idea
 .apt_generated
 .classpath
 .factorypath
@@ -27,3 +28,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+out/
